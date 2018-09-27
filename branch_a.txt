@@ -1,2 +1,4 @@
-﻿A说了一句话
+<<<<<<< HEAD
+A说了一句话
 MASTER
+>>>>>>> branch_b
